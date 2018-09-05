@@ -1,11 +1,11 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
+*.gpy[cod]
 *$py.class
 
 # C extensions
 *.so
-
+ii
 # Distribution / packaging
 .Python
 build/
@@ -101,4 +101,6 @@ venv.bak/
 /site
 
 # mypy
-.mypy_cache/
+.mypy_cache
+/ssh1.pub
+
